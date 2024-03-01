@@ -10,6 +10,7 @@ function NavBar() {
             <Link to="/Bourbons">All Bourbons</Link>
 
             <Link to="/NewBourbon">Add a New Bourbon</Link>
+
         </nav>
     )
 }

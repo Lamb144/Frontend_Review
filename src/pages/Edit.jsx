@@ -1,6 +1,8 @@
+import Form from "../components/form/Form";
+
 function Edit() {
     return (
-        <h1>Edit Page</h1>
+        <Form />
     )
 }
 

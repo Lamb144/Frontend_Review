@@ -1,0 +1,12 @@
+.form {
+  row-gap: 5vh;
+  background-color: cadetblue;
+  padding: 8vh;
+}
+
+.form label {
+  color: white;
+  font-size: 20px;
+  display: flex;
+  column-gap: 10px;
+}
